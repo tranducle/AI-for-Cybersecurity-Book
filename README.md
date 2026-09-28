@@ -26,6 +26,7 @@ standalone course.
 | `notebooks/09-trees.py` | 9. Trees, Forests, and Boosting |
 | `notebooks/10-neighbors.py` | 10. Nearest Neighbors and Clustering |
 | `notebooks/11-anomaly.py` | 11. Anomaly Detection |
+| `notebooks/12-neural.py` | 12. Neural Networks and Deep Learning |
 
 ## How to run
 
