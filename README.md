@@ -27,6 +27,7 @@ standalone course.
 | `notebooks/10-neighbors.py` | 10. Nearest Neighbors and Clustering |
 | `notebooks/11-anomaly.py` | 11. Anomaly Detection |
 | `notebooks/12-neural.py` | 12. Neural Networks and Deep Learning |
+| `notebooks/13-llm.py` | 13. Language Models and LLMs |
 
 ## How to run
 
