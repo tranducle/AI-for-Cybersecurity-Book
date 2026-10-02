@@ -28,6 +28,7 @@ standalone course.
 | `notebooks/11-anomaly.py` | 11. Anomaly Detection |
 | `notebooks/12-neural.py` | 12. Neural Networks and Deep Learning |
 | `notebooks/13-llm.py` | 13. Language Models and LLMs |
+| `notebooks/14-process.py` | 14. The Whole Process at Once |
 
 ## How to run
 
