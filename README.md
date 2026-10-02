@@ -29,6 +29,7 @@ standalone course.
 | `notebooks/12-neural.py` | 12. Neural Networks and Deep Learning |
 | `notebooks/13-llm.py` | 13. Language Models and LLMs |
 | `notebooks/14-process.py` | 14. The Whole Process at Once |
+| `notebooks/15-problem-framing.py` | 15. Problem Framing and Data Acquisition: Stage 1 in Depth |
 
 ## How to run
 
