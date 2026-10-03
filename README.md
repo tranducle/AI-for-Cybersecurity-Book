@@ -30,6 +30,7 @@ standalone course.
 | `notebooks/13-llm.py` | 13. Language Models and LLMs |
 | `notebooks/14-process.py` | 14. The Whole Process at Once |
 | `notebooks/15-problem-framing.py` | 15. Problem Framing and Data Acquisition: Stage 1 in Depth |
+| `notebooks/16-data-validation.py` | 16. Data Validation, Cleaning, and Labels: Stage 2 in Depth |
 
 ## How to run
 
