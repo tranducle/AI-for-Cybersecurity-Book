@@ -32,6 +32,7 @@ standalone course.
 | `notebooks/15-problem-framing.py` | 15. Problem Framing and Data Acquisition: Stage 1 in Depth |
 | `notebooks/16-data-validation.py` | 16. Data Validation, Cleaning, and Labels: Stage 2 in Depth |
 | `notebooks/17-feature-engineering.py` | 17. Feature Engineering and Representation: Stage 3 in Depth |
+| `notebooks/18-splits-leakage.py` | 18. Splits, Leakage, and Class Imbalance: Stage 4 in Depth |
 
 ## How to run
 
