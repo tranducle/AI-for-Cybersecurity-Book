@@ -34,6 +34,7 @@ standalone course.
 | `notebooks/17-feature-engineering.py` | 17. Feature Engineering and Representation: Stage 3 in Depth |
 | `notebooks/18-splits-leakage.py` | 18. Splits, Leakage, and Class Imbalance: Stage 4 in Depth |
 | `notebooks/19-training-tuning.py` | 19. Training, Tuning, and Baselines: Stage 5 in Depth |
+| `notebooks/20-evaluation-metrics.py` | 20. Evaluation, Metrics, Calibration, and Interpretation: Stage 6 in Depth |
 
 ## How to run
 
