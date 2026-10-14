@@ -35,6 +35,7 @@ standalone course.
 | `notebooks/18-splits-leakage.py` | 18. Splits, Leakage, and Class Imbalance: Stage 4 in Depth |
 | `notebooks/19-training-tuning.py` | 19. Training, Tuning, and Baselines: Stage 5 in Depth |
 | `notebooks/20-evaluation-metrics.py` | 20. Evaluation, Metrics, Calibration, and Interpretation: Stage 6 in Depth |
+| `notebooks/21-deployment-drift.py` | 21. Deployment, Monitoring, Concept Drift, and the Human Loop: Stage 7 in Depth |
 
 ## How to run
 
